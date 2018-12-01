@@ -1,0 +1,3 @@
+# Resulting frequency
+
+423
