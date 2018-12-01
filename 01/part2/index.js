@@ -17,7 +17,6 @@ function calc(input) {
 			index = (index + 1) % len;
 		}
 	}
-	console.log(values);
 	return freq;
 }
 
